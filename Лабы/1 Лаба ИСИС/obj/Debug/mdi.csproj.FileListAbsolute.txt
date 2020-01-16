@@ -1,0 +1,51 @@
+c:\users\class\documents\visual studio 2013\Projects\mdi\mdi\bin\Debug\mdi.exe.config
+c:\users\class\documents\visual studio 2013\Projects\mdi\mdi\bin\Debug\mdi.exe
+c:\users\class\documents\visual studio 2013\Projects\mdi\mdi\bin\Debug\mdi.pdb
+c:\users\class\documents\visual studio 2013\Projects\mdi\mdi\obj\Debug\mdi.csprojResolveAssemblyReference.cache
+c:\users\class\documents\visual studio 2013\Projects\mdi\mdi\obj\Debug\mdi.Form1.resources
+c:\users\class\documents\visual studio 2013\Projects\mdi\mdi\obj\Debug\mdi.Form2.resources
+c:\users\class\documents\visual studio 2013\Projects\mdi\mdi\obj\Debug\mdi.Properties.Resources.resources
+c:\users\class\documents\visual studio 2013\Projects\mdi\mdi\obj\Debug\mdi.csproj.GenerateResource.Cache
+c:\users\class\documents\visual studio 2013\Projects\mdi\mdi\obj\Debug\mdi.exe
+c:\users\class\documents\visual studio 2013\Projects\mdi\mdi\obj\Debug\mdi.pdb
+C:\Users\cailr\Desktop\Vfrcveirt hjlyjve\mdi\mdi\bin\Debug\mdi.exe.config
+C:\Users\cailr\Desktop\Vfrcveirt hjlyjve\mdi\mdi\obj\Debug\mdi.exe
+C:\Users\cailr\Desktop\Vfrcveirt hjlyjve\mdi\mdi\obj\Debug\mdi.pdb
+C:\Users\cailr\Desktop\Vfrcveirt hjlyjve\mdi\mdi\bin\Debug\mdi.exe
+C:\Users\cailr\Desktop\Vfrcveirt hjlyjve\mdi\mdi\bin\Debug\mdi.pdb
+C:\Users\cailr\Desktop\Vfrcveirt hjlyjve\mdi\mdi\obj\Debug\mdi.csprojResolveAssemblyReference.cache
+C:\Users\cailr\Desktop\Vfrcveirt hjlyjve\mdi\mdi\obj\Debug\mdi.Form1.resources
+C:\Users\cailr\Desktop\Vfrcveirt hjlyjve\mdi\mdi\obj\Debug\mdi.Form2.resources
+C:\Users\cailr\Desktop\Vfrcveirt hjlyjve\mdi\mdi\obj\Debug\mdi.Properties.Resources.resources
+C:\Users\cailr\Desktop\Vfrcveirt hjlyjve\mdi\mdi\obj\Debug\mdi.csproj.GenerateResource.Cache
+H:\Zemso\L1\mdi\mdi\bin\Debug\mdi.exe.config
+H:\Zemso\L1\mdi\mdi\obj\Debug\mdi.exe
+H:\Zemso\L1\mdi\mdi\obj\Debug\mdi.pdb
+H:\Zemso\L1\mdi\mdi\bin\Debug\mdi.exe
+H:\Zemso\L1\mdi\mdi\bin\Debug\mdi.pdb
+H:\Zemso\L1\mdi\mdi\obj\Debug\mdi.csprojResolveAssemblyReference.cache
+H:\Zemso\L1\mdi\mdi\obj\Debug\mdi.Form1.resources
+H:\Zemso\L1\mdi\mdi\obj\Debug\mdi.Form2.resources
+H:\Zemso\L1\mdi\mdi\obj\Debug\mdi.Properties.Resources.resources
+H:\Zemso\L1\mdi\mdi\obj\Debug\mdi.csproj.GenerateResource.Cache
+F:\Zemso\L1\mdi\mdi\bin\Debug\mdi.exe.config
+F:\Zemso\L1\mdi\mdi\obj\Debug\mdi.exe
+F:\Zemso\L1\mdi\mdi\obj\Debug\mdi.pdb
+F:\Zemso\L1\mdi\mdi\bin\Debug\mdi.exe
+F:\Zemso\L1\mdi\mdi\bin\Debug\mdi.pdb
+F:\Zemso\L1\mdi\mdi\obj\Debug\mdi.csprojResolveAssemblyReference.cache
+F:\Zemso\L1\mdi\mdi\obj\Debug\mdi.Form1.resources
+F:\Zemso\L1\mdi\mdi\obj\Debug\mdi.Form2.resources
+F:\Zemso\L1\mdi\mdi\obj\Debug\mdi.Properties.Resources.resources
+F:\Zemso\L1\mdi\mdi\obj\Debug\mdi.csproj.GenerateResource.Cache
+D:\Student Files\Desktop\mdi\bin\Debug\mdi.exe.config
+D:\Student Files\Desktop\mdi\bin\Debug\mdi.exe
+D:\Student Files\Desktop\mdi\bin\Debug\mdi.pdb
+D:\Student Files\Desktop\mdi\obj\Debug\mdi.csprojAssemblyReference.cache
+D:\Student Files\Desktop\mdi\obj\Debug\mdi.Form1.resources
+D:\Student Files\Desktop\mdi\obj\Debug\mdi.Form2.resources
+D:\Student Files\Desktop\mdi\obj\Debug\mdi.Properties.Resources.resources
+D:\Student Files\Desktop\mdi\obj\Debug\mdi.csproj.GenerateResource.cache
+D:\Student Files\Desktop\mdi\obj\Debug\mdi.csproj.CoreCompileInputs.cache
+D:\Student Files\Desktop\mdi\obj\Debug\mdi.exe
+D:\Student Files\Desktop\mdi\obj\Debug\mdi.pdb

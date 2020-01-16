@@ -1,0 +1,33 @@
+F:\ИСИС\TestApp\bin\Debug\TestApp.exe.config
+F:\ИСИС\TestApp\bin\Debug\TestApp.exe
+F:\ИСИС\TestApp\bin\Debug\TestApp.pdb
+F:\ИСИС\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+F:\ИСИС\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+F:\ИСИС\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+F:\ИСИС\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+F:\ИСИС\TestApp\obj\Debug\TestApp.exe
+F:\ИСИС\TestApp\obj\Debug\TestApp.pdb
+F:\ИСИС\TestApp\obj\Debug\TestApp.Form1.resources
+D:\флешка\ИСИС\TestApp\bin\Debug\TestApp.exe.config
+D:\флешка\ИСИС\TestApp\bin\Debug\TestApp.exe
+D:\флешка\ИСИС\TestApp\bin\Debug\TestApp.pdb
+D:\флешка\ИСИС\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+D:\флешка\ИСИС\TestApp\obj\Debug\TestApp.Form1.resources
+D:\флешка\ИСИС\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\флешка\ИСИС\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+D:\флешка\ИСИС\TestApp\obj\Debug\TestApp.exe
+D:\флешка\ИСИС\TestApp\obj\Debug\TestApp.pdb
+D:\Student Files\Desktop\TestApp\bin\Debug\TestApp.exe.config
+D:\Student Files\Desktop\TestApp\bin\Debug\TestApp.exe
+D:\Student Files\Desktop\TestApp\bin\Debug\TestApp.pdb
+D:\Student Files\Desktop\TestApp\bin\Debug\nunit.framework.dll
+D:\Student Files\Desktop\TestApp\bin\Debug\nunit.framework.pdb
+D:\Student Files\Desktop\TestApp\bin\Debug\nunit.framework.xml
+D:\Student Files\Desktop\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+D:\Student Files\Desktop\TestApp\obj\Debug\TestApp.Form1.resources
+D:\Student Files\Desktop\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\Student Files\Desktop\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+D:\Student Files\Desktop\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\Student Files\Desktop\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+D:\Student Files\Desktop\TestApp\obj\Debug\TestApp.exe
+D:\Student Files\Desktop\TestApp\obj\Debug\TestApp.pdb

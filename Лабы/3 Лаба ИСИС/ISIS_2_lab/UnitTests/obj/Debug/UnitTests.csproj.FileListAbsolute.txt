@@ -1,0 +1,13 @@
+E:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\bin\Debug\UnitTests.dll
+E:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\bin\Debug\UnitTests.pdb
+E:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\bin\Debug\nunit.framework.dll
+E:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\bin\Debug\nunit.framework.pdb
+E:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\bin\Debug\nunit.framework.xml
+E:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+E:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+E:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+E:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\obj\Debug\UnitTests.dll
+E:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\obj\Debug\UnitTests.pdb
+e:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\bin\Debug\ISIS_1_lab.pdb
+e:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\bin\Debug\ISIS_1_lab.exe
+e:\5 семестр\ИСИС\ISIS_2_lab\UnitTests\bin\Debug\ISIS_1_lab.exe.config

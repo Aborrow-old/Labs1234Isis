@@ -1,0 +1,70 @@
+F:\1LabISIS\bin\Debug\1labISIS.exe.config
+F:\1LabISIS\bin\Debug\1labISIS.exe
+F:\1LabISIS\bin\Debug\1labISIS.pdb
+F:\1LabISIS\obj\Debug\1labISIS.csprojAssemblyReference.cache
+F:\1LabISIS\obj\Debug\_1labISIS.Child.resources
+F:\1LabISIS\obj\Debug\_1labISIS.Form1.resources
+F:\1LabISIS\obj\Debug\_1labISIS.Properties.Resources.resources
+F:\1LabISIS\obj\Debug\1labISIS.csproj.GenerateResource.cache
+F:\1LabISIS\obj\Debug\1labISIS.exe
+F:\1LabISIS\obj\Debug\1labISIS.pdb
+C:\Users\Igor\Desktop\1LabISIS\bin\Debug\1labISIS.exe.config
+C:\Users\Igor\Desktop\1LabISIS\bin\Debug\1labISIS.exe
+C:\Users\Igor\Desktop\1LabISIS\bin\Debug\1labISIS.pdb
+C:\Users\Igor\Desktop\1LabISIS\obj\Debug\1labISIS.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\1LabISIS\obj\Debug\_1labISIS.Child.resources
+C:\Users\Igor\Desktop\1LabISIS\obj\Debug\_1labISIS.Form1.resources
+C:\Users\Igor\Desktop\1LabISIS\obj\Debug\_1labISIS.Properties.Resources.resources
+C:\Users\Igor\Desktop\1LabISIS\obj\Debug\1labISIS.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\1LabISIS\obj\Debug\1labISIS.exe
+C:\Users\Igor\Desktop\1LabISIS\obj\Debug\1labISIS.pdb
+C:\Users\Igor\Desktop\1LabISIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Igor\Desktop\1LabISIS\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Igor\Desktop\1LabISIS\bin\Debug\System.Web.Http.dll
+C:\Users\Igor\Desktop\1LabISIS\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Igor\Desktop\1LabISIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Igor\Desktop\1LabISIS\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Igor\Desktop\1LabISIS\bin\Debug\System.Web.Http.xml
+C:\Users\Igor\Desktop\1LabISIS\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Igor\Desktop\1LabISIS\obj\Debug\_1labISIS.Form2.resources
+C:\Users\Igor\Desktop\1LabISIS\obj\Debug\1labISIS.csproj.CopyComplete
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\bin\Debug\1labISIS.exe.config
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\bin\Debug\1labISIS.exe
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\bin\Debug\1labISIS.pdb
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\bin\Debug\System.Web.Http.dll
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\bin\Debug\System.Web.Http.xml
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\obj\Debug\1labISIS.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\obj\Debug\_1labISIS.Child.resources
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\obj\Debug\_1labISIS.Form1.resources
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\obj\Debug\_1labISIS.Form2.resources
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\obj\Debug\_1labISIS.Properties.Resources.resources
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\obj\Debug\1labISIS.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\obj\Debug\1labISIS.csproj.CopyComplete
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\obj\Debug\1labISIS.exe
+C:\Users\Igor\Desktop\Новая папка\1LabISIS\obj\Debug\1labISIS.pdb
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\bin\Debug\1labISIS.exe.config
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\bin\Debug\1labISIS.exe
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\bin\Debug\1labISIS.pdb
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\bin\Debug\System.Web.Http.dll
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\bin\Debug\System.Web.Http.xml
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\obj\Debug\1labISIS.csprojAssemblyReference.cache
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\obj\Debug\_1labISIS.Child.resources
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\obj\Debug\_1labISIS.Form1.resources
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\obj\Debug\_1labISIS.Form2.resources
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\obj\Debug\_1labISIS.Properties.Resources.resources
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\obj\Debug\1labISIS.csproj.GenerateResource.cache
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\obj\Debug\1labISIS.csproj.CopyComplete
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\obj\Debug\1labISIS.exe
+C:\Users\Артур Кудреватых\Desktop\4лрИСИС\Новая папка\1LabISIS\obj\Debug\1labISIS.pdb
